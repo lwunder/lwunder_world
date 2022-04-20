@@ -15,6 +15,7 @@ gem 'sqlite3'
 gem 'simple_form'
 gem 'carrierwave'
 gem 'will_paginate'
+gem 'nokogiri', '1.8.0'
 
 # Use Puma as the app server
 gem 'puma', '~> 3.7'
